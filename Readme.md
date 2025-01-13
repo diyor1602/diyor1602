@@ -4,7 +4,7 @@
 - 👨‍💻 I'm a passionate software developer with a love for coding and problem-solving.
 - 🌱 I’m currently learning new technologies and improving my skills in full-stack development.
 - 💼 I’m currently working on exciting projects and collaborating with amazing people.
-- 📫 How to reach me: [X](x.com/__diyor) | [Telegram](abdurakhmanov.t.me)
+- 📫 How to reach me: [X](https://x.com/__diyor) | [Telegram](https://t.me/abdurakhmanov)
 
 ## Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
